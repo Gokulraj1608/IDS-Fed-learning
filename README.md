@@ -19,7 +19,7 @@ Go to the `./datasets` directory and follow the instructions provided there to a
 5. Create the instance.
 6. Go to "Configure Firewall Rules".
 7. Add two rules that allow both incoming and outgoing traffic for the TCP protocol on port 4687 (or any other port where you wish to launch the server).
-8. Install the project repository on the virtual machine: git clone https://github.com/k6mui/TFG-IDS-FederatedLearning.git
+8. Install the project repository on the virtual machine: git clone https://github.com/Gokulraj1608/IDS-Fed-learning.git
 9. Modify the `server.py` file, entering the internal IP of the virtual machine in the "serverAdress" variable.
 10. Repeat steps 8 and 9 on the machine where you wish to launch the clients.
 11. Enter the external IP of the virtual machine in the "server_address" variable.
