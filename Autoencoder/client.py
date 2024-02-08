@@ -15,7 +15,7 @@ from server import eval_learningAnDet, anomalyDetection
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
 # External IP of VM Instance
-serverAdress = "34.131.121.98"  # e.g. "34.125.18.50"
+serverAdress = "35.200.157.171"  # e.g. "34.125.18.50"
 
 # def calculate_MAE(x, x_hat):
 #     losses = np.mean((x - x_hat)**2, axis=1)  # MSE
